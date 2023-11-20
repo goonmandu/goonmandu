@@ -1,5 +1,6 @@
 - 🔭 I’m currently working on:
     - [A Wordle stats Discord bot](https://github.com/goonmandu/WordleStatsBot)
+    - [A Krunker.io Player Stats Parser ("API")](https://github.com/goonmandu/KrunkerAPI)
 
 - 🌱 I’m currently learning:
     - [Data Structures and Algorithms in Java](https://github.com/goonmandu/sbu_fall2023_cse214)
