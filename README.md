@@ -1,14 +1,6 @@
-- 🔭 I’m currently working on:
-    - [A Wordle stats Discord bot](https://github.com/goonmandu/WordleStatsBot)
-    - [A Reddit Media Archiver](https://github.com/goonmandu/SavedDownloaderPraw)
+- I’m currently working on:
+    - [A Custom Hall-Effect Keyboard](https://github.com/goonmandu/GoonBoard-HE)
 
-- 👯 I’m looking to collaborate on:
-    - any of my "opensource" projects!
-
-- 📫 How to reach me:
+- How to reach me:
     - Email: hwang.mingi7@gmail.com
     - Discord: `goonmandu`
-
-- 😄 Pronouns:
-    - they/them, or
-    - any pronoun is fine
